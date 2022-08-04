@@ -21,3 +21,4 @@
 
 ##
 
+<img align="center" src="https://github.com/michaelschon/michaelschon/blob/output/github-contribution-grid-snake.svg" />
