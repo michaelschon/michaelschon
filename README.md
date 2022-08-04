@@ -17,7 +17,7 @@
 
 ##
 
-<div>
+<div align="center">
      
   <a href="https://www.instagram.com/michael_schon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-sch%C3%B6n-76251889/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
