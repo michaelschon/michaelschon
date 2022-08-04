@@ -33,4 +33,9 @@
   <a href="https://www.redhat.com/pt-br" target="_blank"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="" target="_blank"></a>
   <a href="" target="_blank"><img src="" target="_blank"></a>
+  
+  Badges: https://dev.to/envoy_/150-badges-for-github-pnk
+  Icon: https://emojiterra.com/pt/poodle/ e https://emojipedia.org/pt/bolsa-de-m%C3%A3o/
+  Readme: https://readme.so/pt/editor
+  
   -->
