@@ -25,12 +25,12 @@
   <a href="https://www.facebook.com/mihschon" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://web.whatsapp.com/send?phone=5519999222004" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-  <a href="https://www.redhat.com/pt-br" target="_blank"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" target="_blank"></a>
   <a href="https://getfedora.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" target="_blank"></a>
        
 </div>
 
   <!-- 
-  <a href="" target="_blank"><img src="" target="_blank"></a>
+  <a href="https://www.redhat.com/pt-br" target="_blank"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="" target="_blank"></a>
   <a href="" target="_blank"><img src="" target="_blank"></a>
   -->
